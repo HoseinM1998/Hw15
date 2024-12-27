@@ -50,11 +50,7 @@ namespace Hw14.Repositories
                 .Sum(x => x.Amount);
             return amountOfTransactions;
         }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> hosein
+
 
         public void UpdateTransactionFee(string cardNumber, float fee)
         {
@@ -68,10 +64,7 @@ namespace Hw14.Repositories
             transaction.Fee = fee;
             _context.SaveChanges();
         }
-<<<<<<< HEAD
->>>>>>> 0b262331e15618efd570bc0889617ef631a4a130
-=======
->>>>>>> hosein
+
     }
 
 }

@@ -299,7 +299,6 @@ D:\Hw14\Hw14\obj\Debug\net9.0\Hw14.genruntimeconfig.cache
 D:\Hw14\Hw14\obj\Debug\net9.0\ref\Hw14.dll
 D:\Hw14\Hw14\bin\Debug\net9.0\Newtonsoft.Json.dll
 <<<<<<< HEAD
-<<<<<<< HEAD
 D:\Hw14-hosein\Hw14\bin\Debug\net9.0\Hw14.exe
 D:\Hw14-hosein\Hw14\bin\Debug\net9.0\Hw14.deps.json
 D:\Hw14-hosein\Hw14\bin\Debug\net9.0\Hw14.runtimeconfig.json
@@ -452,5 +451,4 @@ D:\Hw14-hosein\Hw14\obj\Debug\net9.0\Hw14.genruntimeconfig.cache
 D:\Hw14-hosein\Hw14\obj\Debug\net9.0\ref\Hw14.dll
 =======
 >>>>>>> 0b262331e15618efd570bc0889617ef631a4a130
-=======
 >>>>>>> hosein

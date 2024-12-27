@@ -14,15 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hw14")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a23778edc95385fbc58706d8b5c00142c3f6e50")]
->>>>>>> 0b262331e15618efd570bc0889617ef631a4a130
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a23778edc95385fbc58706d8b5c00142c3f6e50")]
->>>>>>> hosein
 [assembly: System.Reflection.AssemblyProductAttribute("Hw14")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hw14")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

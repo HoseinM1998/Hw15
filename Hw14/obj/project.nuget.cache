@@ -1,20 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "F+qn6GCmJr0=",
-  "success": true,
-  "projectFilePath": "D:\\Hw14-hosein\\Hw14\\Hw14.csproj",
-=======
-  "dgSpecHash": "UAcd4mTsJ9w=",
+  "dgSpecHash": "I10Po/yOMP8=",
   "success": true,
   "projectFilePath": "D:\\Hw14\\Hw14\\Hw14.csproj",
->>>>>>> 0b262331e15618efd570bc0889617ef631a4a130
-=======
-  "dgSpecHash": "UAcd4mTsJ9w=",
-  "success": true,
-  "projectFilePath": "D:\\Hw14\\Hw14\\Hw14.csproj",
->>>>>>> hosein
   "expectedPackageFiles": [
     "C:\\Users\\hmosl\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hmosl\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
